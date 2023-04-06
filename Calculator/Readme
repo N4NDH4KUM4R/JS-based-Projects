@@ -1,0 +1,17 @@
+The calculator project is a non-realtime calculator, but it functions similarly. The first step is to prompt the user for two input numbers and an operation (such as +, -, *, /). The calculator will only work with valid operators; any other operator input will return an error message. Finally, the calculator will calculate the two values using the operator and return the final result. If you are not familiar with the prompt method, it is a function that allows the user to input data into a dialog box.
+
+What is prompt?
+
+The prompt() method displays a dialog box that prompts the user for input.
+
+The prompt() method returns the input value if the user clicks "OK", otherwise it returns null.
+
+for more details:
+
+w3school:
+
+https://www.w3schools.com/jsref/met_win_prompt.asp
+
+MDN web documentation:
+
+https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt
